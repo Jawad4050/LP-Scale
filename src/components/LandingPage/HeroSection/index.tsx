@@ -8,7 +8,7 @@ const HeroHeader = () => {
       <div>
         <div className="relative ">
           <div className="py-[47px] pt-[70px] lg:px-0 px-[20px] text-center mx-auto lg:w-[65%] bg-[url('/bg-herosection.svg')] bg-cover bg-center relative">
-            <h1 className="lg:text-[66px] text-[30px] mb-0 font-bold-GilroySemiBold tracking-[-2%] font-[400] tracking-[1px] lg:leading-[80px]">Obtenez <span className="text-transparent bg-clip-text bg-[linear-gradient(to_right,#A6FFE1,#B7D4FF,#FFBCE2)]">15x plus</span> de<br/><span className="text-transparent bg-clip-text bg-[linear-gradient(to_right,#A6FFE1,#B7D4FF,#FFBCE2)]">vrais</span> abonnés Instagram</h1>
+            <h1 className="lg:text-[66px] text-[30px] mb-0 font-bold-GilroySemiBold tracking-[-2%] font-[400] tracking-[1px] lg:leading-[80px] text-white">Obtenez <span className="text-transparent bg-clip-text bg-[linear-gradient(to_right,#A6FFE1,#B7D4FF,#FFBCE2)]">15x plus</span> de<br/><span className="text-transparent bg-clip-text bg-[linear-gradient(to_right,#A6FFE1,#B7D4FF,#FFBCE2)]">vrais</span> abonnés Instagram</h1>
             <p className="lg:text-[18px] text-[14px] font-[300] font-[400] mt-[16px] text-[#AEAFB3]">Aucun bot, ni spam, pas de faux followers.<br/><span className="text-white">Uniquement des abonnés actifs</span></p>
             <div className="flex items-center w-fit border border-[#1B1A1B] my-[25px] rounded-full mx-auto">
               <div>
