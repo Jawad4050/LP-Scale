@@ -32,7 +32,7 @@ const Header = () => {
             <Link href="/" className="block lg:pb-0 pb-[18px] text-[rgb(255,255,255,73%)]">navlink</Link>
           </div>
           <div>
-            <button className="text-[16px] px-[20px] py-[10px] font-[500] rounded-full border-[1px] border-[rgb(251,251,251,20%)] bg-transparent hover:bg-[#1D1D26] lg:w-fit w-full">
+            <button className="text-[16px] text-white px-[20px] py-[10px] font-[500] rounded-full border-[1px] border-[rgb(251,251,251,20%)] bg-transparent hover:bg-[#1D1D26] lg:w-fit w-full">
               Get Started
             </button>
           </div>
